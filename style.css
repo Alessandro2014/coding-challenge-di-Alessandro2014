@@ -1,0 +1,67 @@
+body {
+  background-image: url("sfondo.jpg");
+  background-size: cover;
+  }
+
+.container {
+  width: 100%;
+}
+
+.sfondo {
+  width: 60%;
+  margin: 30px auto;
+  background-color: rgba(0,0,0,0.5);
+  padding: 90px;
+  border-radius: 20px;
+}
+
+.logo {
+  width: 190px;
+}
+
+.testo-logo {
+  font-size: 35px;
+  color: rgb(1,233,0);
+  font-family: arial;
+}
+
+#monopattino {
+  font-size: 20px;
+}
+
+.tasti {
+  width: 1000px;
+  height: 40px;
+  background: rgb(1,233,0);
+  text-align: center;
+}
+
+.tasti button {
+  height: 20px;
+  margin-top: 10px;
+}
+
+section {
+  color: white;
+  font-family: arial;
+}
+
+.carica {
+  height: 20px;
+  border-radius: 5px;
+}
+
+.carica1 {
+  width: 300px;
+  background: yellow;
+}
+
+.carica2 {
+  width: 600px;
+  background: rgb(1,233,0);
+}
+
+.carica3 {
+  width: 120px;
+  background: red;
+}
